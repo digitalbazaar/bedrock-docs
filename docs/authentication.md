@@ -4,7 +4,7 @@ There are a number of ways a client may authenticate itself with the
 REST API. These methods include:
 
 * Cookies
-* HTTP Signatures 
+* HTTP Signatures
 
 #### Cookies
 
