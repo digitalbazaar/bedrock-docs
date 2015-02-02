@@ -29,7 +29,7 @@
   },
   "peerDependencies": {
     "bedrock": "~0.3.0",
-    "bedrock-validation": "~0.1.0"
+    "bedrock-validation": "~0.0.1"
   },
   "directories": {
     "lib": "./lib"
