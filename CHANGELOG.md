@@ -1,5 +1,7 @@
 # bedrock-docs ChangeLog
 
+## [Unreleased]
+
 ## 0.1.1 - 2015-02-23
 
 ### Added
