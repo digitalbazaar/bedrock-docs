@@ -2,7 +2,7 @@
   "name": "bedrock-docs",
   "version": "0.1.2-dev",
   "description": "Bedrock docs",
-  "main": "index.js",
+  "main": "./lib/docs",
   "scripts": {
     "test": "node test.js"
   },
@@ -34,6 +34,5 @@
   },
   "directories": {
     "lib": "./lib"
-  },
-  "main": "./lib/docs"
+  }
 }
