@@ -11,5 +11,4 @@
 
 - See git history for changes.
 
-
 [Unreleased]: https://github.com/digitalbazaar/bedrock-docs/compare/0.1.0...HEAD
