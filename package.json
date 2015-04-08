@@ -1,6 +1,6 @@
 {
   "name": "bedrock-docs",
-  "version": "0.1.2-dev",
+  "version": "1.0.0",
   "description": "Bedrock docs",
   "main": "./lib/docs",
   "scripts": {
@@ -28,9 +28,9 @@
     "underscore": "~1.7.0"
   },
   "peerDependencies": {
-    "bedrock": "~0.3.0",
-    "bedrock-express": "~0.1.0 || ~0.2.0",
-    "bedrock-validation": "~0.1.0"
+    "bedrock": "^1.0.0",
+    "bedrock-express": "^1.0.0",
+    "bedrock-validation": "^1.0.0"
   },
   "directories": {
     "lib": "./lib"
