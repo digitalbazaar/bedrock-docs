@@ -5,6 +5,10 @@ support to a site. Documentation is hosted at `/docs`. API documentation can be
 generated with [RAML][] and [raml2html][] by using the documentation API to
 annotate REST endpoints.
 
+## Requirements
+
+- npm v3+
+
 ## Quick Examples
 
 ```
