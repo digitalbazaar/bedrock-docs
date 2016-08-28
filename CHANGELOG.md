@@ -1,6 +1,7 @@
 # bedrock-docs ChangeLog
 
-## [Unreleased]
+## 2.0.2 - 2016-08-28
+- Migrate doc configs to proper packages.
 
 ## [2.0.1] - 2016-03-15
 
