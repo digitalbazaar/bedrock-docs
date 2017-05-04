@@ -1,6 +1,6 @@
 # bedrock-docs ChangeLog
 
-## 2.0.3 - 2017-05-04
+## 2.1.0 - 2017-05-04
 - Write error file when RAML compilation fails.
 
 ## 2.0.2 - 2016-08-28
