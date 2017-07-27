@@ -1,5 +1,8 @@
 # bedrock-docs ChangeLog
 
+### Changed
+- Use child logger.
+
 ## 2.1.0 - 2017-05-04
 
 ### Changed

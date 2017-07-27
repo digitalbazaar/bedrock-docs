@@ -28,7 +28,7 @@
     "raml2html": "~1.6.0"
   },
   "peerDependencies": {
-    "bedrock": "^1.0.0",
+    "bedrock": "^1.6.0",
     "bedrock-express": "^2.0.0",
     "bedrock-validation": "^2.0.0"
   },
