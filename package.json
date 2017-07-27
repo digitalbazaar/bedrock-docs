@@ -1,6 +1,6 @@
 {
   "name": "bedrock-docs",
-  "version": "2.1.1",
+  "version": "2.1.2-0",
   "description": "Bedrock docs",
   "main": "./lib/docs",
   "scripts": {
