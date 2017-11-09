@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-docs",
   "dependencies": {
-    "async": "^1.5.2",
+    "async": "^2.6.0",
     "lodash": "^4.0.1",
-    "raml2html": "~1.6.0"
+    "raml2html": "~6.4.2"
   },
   "peerDependencies": {
     "bedrock": "^1.6.0",
