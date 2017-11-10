@@ -1,5 +1,19 @@
 # bedrock-docs ChangeLog
 
+## 2.2.0 - 2017-11-10
+
+### Added
+- RAML 1.0 support.
+
+### Changed
+- Use ES6 Syntax  
+- Update raml2html dependency.
+- Update async dependency.
+
+### Fixed
+- RAML rendering failure in cases where a route did not have a defined parent.
+  Undefined parent endpoints are now defined automatically.
+
 ## 2.1.1 - 2017-07-27
 
 ### Changed
