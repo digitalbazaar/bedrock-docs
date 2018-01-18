@@ -1,5 +1,10 @@
 # bedrock-docs ChangeLog
 
+## 2.2.1 - 2018-01-18
+
+### Fixed
+- Namespace filenames with PID to prevent race condition.
+
 ## 2.2.0 - 2017-11-10
 
 ### Added
