@@ -1,5 +1,7 @@
 # bedrock-docs ChangeLog
 
+## 2.2.2 - 2018-03-07
+
 ### Changes
 - Update dependencies.
 
