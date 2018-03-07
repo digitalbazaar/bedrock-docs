@@ -1,5 +1,8 @@
 # bedrock-docs ChangeLog
 
+### Changes
+- Update dependencies.
+
 ## 2.2.1 - 2018-01-18
 
 ### Fixed
