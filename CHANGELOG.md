@@ -1,5 +1,10 @@
 # bedrock-docs ChangeLog
 
+## 2.2.3 - 2018-06-27
+
+### Fixed
+- Use lodash `get` to avoid uncaught error during document retrieval.
+
 ## 2.2.2 - 2018-03-07
 
 ### Changes
