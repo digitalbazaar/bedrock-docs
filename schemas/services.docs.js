@@ -1,17 +1,16 @@
 /*
- * Copyright (c) 2012-2015 Digital Bazaar, Inc. All rights reserved.
+ * Copyright (c) 2012-2018 Digital Bazaar, Inc. All rights reserved.
  */
-var getDocsQuery = {
+'use strict';
+
+const getDocsQuery = {
   type: 'object',
   properties: {
     topic: {
-      required: false,
       type: 'string',
       minLength: 1
     }
   }
 };
 
-module.exports.getDocsQuery = function() {
-  return getDocsQuery;
-};
+module.exports.getDocsQuery = () => getDocsQuery;
