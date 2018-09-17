@@ -1,5 +1,10 @@
 # bedrock-docs ChangeLog
 
+## 3.0.0 - 2018-09-17
+
+### Changed
+- Use bedrock-validation 3.x.
+
 ## 2.2.3 - 2018-06-27
 
 ### Fixed
