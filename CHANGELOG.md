@@ -1,5 +1,10 @@
 # bedrock-docs ChangeLog
 
+## 3.1.0 - 2018-11-27
+
+### Changed
+- Update bedrock-validation peer dependency.
+
 ## 3.0.0 - 2018-09-17
 
 ### Changed
