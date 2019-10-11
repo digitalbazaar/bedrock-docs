@@ -1,5 +1,10 @@
 # bedrock-docs ChangeLog
 
+## 3.2.0 - 2019-10-11
+
+### Changed
+- Use raml2html@7.4.0.
+
 ## 3.1.0 - 2018-11-27
 
 ### Changed
