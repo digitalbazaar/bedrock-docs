@@ -34,5 +34,8 @@
   },
   "directories": {
     "lib": "./lib"
+  },
+  "engines": {
+    "node": ">=8"
   }
 }
