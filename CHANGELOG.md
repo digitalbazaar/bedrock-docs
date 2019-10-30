@@ -1,5 +1,8 @@
 # bedrock-docs ChangeLog
 
+### Changed
+- Update to latest bedrock events API.
+
 ## 3.2.0 - 2019-10-11
 
 ### Changed
