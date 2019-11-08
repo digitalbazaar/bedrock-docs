@@ -1,5 +1,7 @@
 # bedrock-docs ChangeLog
 
+## 3.2.2 - 2019-11-08
+
 ### Changed
 - Update max bedrock dependency.
 
