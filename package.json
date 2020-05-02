@@ -4,7 +4,9 @@
   "description": "Bedrock docs",
   "main": "lib",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -25,7 +27,8 @@
   "dependencies": {
     "async": "^2.6.0",
     "lodash": "^4.17.5",
-    "raml2html": "^7.4.0"
+    "raml2html": "^7.4.0",
+    "snyk": "^1.316.2"
   },
   "peerDependencies": {
     "bedrock": "1.6.0 - 3.x",
@@ -37,5 +40,6 @@
   },
   "engines": {
     "node": ">=8"
-  }
+  },
+  "snyk": true
 }
